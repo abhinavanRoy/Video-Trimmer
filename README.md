@@ -1,5 +1,5 @@
 # Video-Trimmer
-An Android App which helps you to trim your videos to a certain time stamp.
+Cut the umwanted part of a video using this app, this is an android app which helps you to trim your videos to a certain time stamp.
 
 # App Preview
 
